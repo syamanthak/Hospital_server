@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "Hospital_Name":"Hospital Sree Chithra",
+        "Patient_Count":500,
+        "H_Location":"Kannur"
+    },
+    {
+        "id": 2,
+        "Hospital_Name":"Hospital Pariyaram",
+        "Patient_Count":456,
+        "H_Location":"Kozhikod"
+    },
+    {
+        "id": 3,
+        "Hospital_Name":"Hospital Kannur Medical College",
+        "Patient_Count":1200,
+        "H_Location":"Wayanad"
+    }
+]
